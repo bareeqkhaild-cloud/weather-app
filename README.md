@@ -60,7 +60,7 @@ The networking logic (`network`, `data`) is fully separated from the UI (`ui`).
 1. Install [Android Studio](https://developer.android.com/studio).
 2. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/bareeqkhaild-cloud/weather-app.git
    ```
 3. Open the project folder in Android Studio and wait for the Gradle sync to finish.
 4. Connect an Android phone (USB debugging on) or start an emulator.
